@@ -1,6 +1,8 @@
 .ipynb_checkpoints
 *.zip
 *.env
+*.csv
+list/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
